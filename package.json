@@ -1,0 +1,22 @@
+{
+  "name": "php-aws-codepipeline",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmauricio80/php-aws-codepipeline.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmauricio80/php-aws-codepipeline/issues"
+  },
+  "homepage": "https://github.com/tmauricio80/php-aws-codepipeline#readme",
+  "description": "",
+  "dependencies": {
+    "element-ui": "^2.15.6"
+  }
+}
